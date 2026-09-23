@@ -115,12 +115,35 @@ I provide:
 - JD-to-Resume Keyword Matching
 - Resume Review & Editing
 
-**Get Started:**  
-https://tally.so/r/2EpAbL
-
 ---
 
 ### 🔗 Connect With Me
 
 LinkedIn:  
 https://www.linkedin.com/in/lokeshdas01/
+
+
+
+
+## 📂 Sample Resume Files
+
+### 📄 Before Resume
+[View Before Resume](./Resume%20Before.pdf)
+
+### 📄 After Resume
+[View After Resume](./Resume%20After.pdf)
+
+---
+
+## 📩 Work With Me
+
+Looking to improve your resume or LinkedIn profile?
+
+I help professionals with ATS resume optimization, LinkedIn profile improvement, and job-specific resume tailoring.
+
+👉 **[Get Started — Submit Your Information](https://tally.so/r/2EpAbL)**
+
+I'll review your information and recommend the appropriate service based on your career goals.
+
+
+
